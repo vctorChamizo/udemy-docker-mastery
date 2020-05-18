@@ -1,13 +1,19 @@
-# Udemy Course Docker Mastery: with Kubernetes+Swarm from a Docker Captain
-
-> Build, test, deploy containers with the best mega-course on Docker, Kubernetes, Compose, Swarm and Registry using DevOps
+# Udemy Course Docker Mastery: with Kubernetes + Swarm from a Docker Captain
 
 This repo is for use in my Udemy Courses "Docker Mastery" and "Swarm Mastery"
 
-Get these courses for with my "cheapest on the Internet" coupon links:
+> Build, test, deploy containers with the best mega-course on Docker, Kubernetes, Compose, Swarm and Registry using DevOps
 
-https://www.bretfisher.com/courses
 
-My other DevOps and Docker resources are at https://www.bretfisher.com/docker
+## Documentation
+### Cheetsheet Docker
+![cheetsheet-docker](https://user-images.githubusercontent.com/32466953/82219963-50aff980-991e-11ea-90b8-b84ad98966be.png)
 
-Feel free to create issues or PRs if you find a problem with examples in this repo!
+
+
+## Author
+
+This repository has been modified in the course development by [Victor Chamizo](https://github.com/vctorChamizo).
+
+Happy coding! 💻
+
