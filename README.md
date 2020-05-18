@@ -6,7 +6,7 @@ This repo is for use in my Udemy Courses "Docker Mastery" and "Swarm Mastery"
 
 
 ## Documentation
-### Cheetsheet Docker
+### Cheatsheet Docker
 ![cheetsheet-docker](https://user-images.githubusercontent.com/32466953/82219963-50aff980-991e-11ea-90b8-b84ad98966be.png)
 
 
