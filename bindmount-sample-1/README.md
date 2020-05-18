@@ -1,4 +1,4 @@
-# Docker | Bindmount sample
+# Docker | Bindmount assignment
 
 ## Persistent Data: Data Volumes
 ```
